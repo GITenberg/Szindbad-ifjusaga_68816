@@ -1,0 +1,33 @@
+_repo: Szindbad-ifjusaga_68816
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krúdy, Gyula
+    aliases:
+    - Krudy, Gyula
+    - Круди, Дюла
+    birthdate: 1878
+    deathdate: 1933
+    gutenberg_agent_id: '41227'
+    url: http://www.gutenberg.org/2009/agents/41227
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gyula_Kr%C3%BAdy
+    - https://hu.wikipedia.org/wiki/Kr%C3%BAdy_Gyula
+description: ''
+gutenberg_issued: '2022-08-22'
+identifiers:
+  gutenberg: '68816'
+language: hu
+pgterms:marc905: 20220821005755krdy
+pgterms:marc906: '1911'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Nyugat,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Szindbád ifjusága
+url: http://www.gutenberg.org/ebooks/68816
